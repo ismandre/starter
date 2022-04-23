@@ -21,7 +21,7 @@
 - [Service and application development for Android OS by FIVE](https://github.com/ismandre/android-vjestina-tmdb)
 - [Infinum Android Academy](https://github.com/ismandre/isa-shows-app-dnaram)
 
-### Free Time
+### Deep Learning
 
 - [Deep Learning Specialization Course](https://github.com/ismandre/deep-learning-specialization)
 
