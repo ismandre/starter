@@ -31,8 +31,6 @@
 
 - [Agency 04 Summer School](https://github.com/ismandre/ag04-pizzaApp)
 
-
-
 ### Tasks
 
 - [Global Logic assignment for Java Academy](https://github.com/ismandre/global-logic-assignment)
