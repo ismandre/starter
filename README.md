@@ -67,4 +67,7 @@ For more details here is the [link](https://towardsdatascience.com/roadmap-for-c
 
 For more details here is the [link](https://www.kaggle.com/getting-started/158267).
 
+### Deep Learning Book
+
+For more details here is the [link](https://www.deeplearningbook.org/).
 
