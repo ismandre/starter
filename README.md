@@ -11,7 +11,7 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 - [Seminar 1](https://github.com/ismandre/seminar-1)
 - [Software Engineering: Project](https://github.com/ismandre/Programsko-Inzenjerstvo-Projekt)
 - [Statistical Data Analysis: Project](https://github.com/ismandre/Statisticka-Analiza-Podataka-Projekt)
-- 
+
 ### Machine Learning
 
 - [Deep Learning Specialization Course](https://github.com/ismandre/deep-learning-specialization)
@@ -46,5 +46,25 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 
 ### Roadmap to Computer Vision
 For more details here is the [link](https://resources.experfy.com/ai-ml/roadmap-to-computer-vision/?ref=morioh.com&utm_source=morioh.com).
+
+### How to Become a Computer Vision Engineer in 2022?
+
+For more details here is the [link](https://www.projectpro.io/article/computer-vision-engineer/469).
+
+### Here's your Learning Path to Master Computer Vision in 2020
+
+For more details here is the [link](https://www.analyticsvidhya.com/blog/2020/01/computer-vision-learning-path-2020/).
+
+### Complete Deep Learning & Computer Vision Roadmap for Beginners
+
+For more details here is the [link](https://www.youtube.com/watch?v=OSLC-bx_kik).
+
+### Roadmap for Conquering Computer Vision
+
+For more details here is the [link](https://towardsdatascience.com/roadmap-for-conquering-computer-vision-213695472ad0).
+
+### Getting Started: Computer Vision Roadmap
+
+For more details here is the [link](https://www.kaggle.com/getting-started/158267).
 
 
