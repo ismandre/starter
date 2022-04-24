@@ -2,6 +2,15 @@
 
 This page is primarily intended for me to keep track of and organize my GitHub repositories into meaningful units. Somewhere along the way when implementing this idea I thought that this page could serve me well both to organize not only GitHub repos but any other college and non-college related work and projects and to show someone else my areas of interest along with some demo apps. Particularly, my area of interest is applying machine learning and deep learning concepts and models in the field of computer vision. Having my bachelor thesis done in the given field. In my free time I like learning new stuff about Android and iOS apps development tools. Having that in my mind, this page will be organized into sections which are not yet defined but will be as I progress with this idea. 
 
+
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
+
+
+
 ## My Repositories
 
 ### College
@@ -18,15 +27,15 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 
 ### Mobile 
 
-#### iOS
-
-- [Service and application development for iOS by FIVE ](https://github.com/ismandre/iOS-Vjestina-QuizApp)
-- [SofaScore iOS Course](https://github.com/ismandre/sofascore-ios-course)
-
 #### Android
 
 - [Infinum Android Academy](https://github.com/ismandre/isa-shows-app-dnaram)
 - [Service and application development for Android OS by FIVE](https://github.com/ismandre/android-vjestina-tmdb)
+
+#### iOS
+
+- [Service and application development for iOS by FIVE ](https://github.com/ismandre/iOS-Vjestina-QuizApp)
+- [SofaScore iOS Course](https://github.com/ismandre/sofascore-ios-course)
 
 ### Tasks and Assignments
 
@@ -38,8 +47,6 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 #### Spring Boot
 
 - [Agency 04 Summer School](https://github.com/ismandre/ag04-pizzaApp)
-
-
 
 
 ## Computer Vision Roadmap
@@ -71,3 +78,49 @@ For more details here is the [link](https://www.kaggle.com/getting-started/15826
 
 For more details here is the [link](https://www.deeplearningbook.org/).
 
+
+
+
+## IELTS preparation
+
+#### IELTS Full Course in 10 hours - 2022
+
+For more details here is the [link](https://www.youtube.com/watch?v=Jzps8q2es7c).
+
+##### Introduction to IELTS
+
+##### Listening: Structure
+
+##### Listening: Sections Explained
+
+##### Listening: Introduction to Accents
+
+##### Listening: Form Completion
+
+##### Listening: Table Completion
+
+##### Listening: Sentence Completion
+
+##### Listening: Multiple Choice Questions
+
+##### Listening: Short Answers
+
+##### Listening: Map Labeling
+
+##### Listening: Flow-Chart Completion
+
+
+
+
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+## Some paragraph <a name="paragraph1"></a>
+The first paragraph text
+
+### Sub paragraph <a name="subparagraph1"></a>
+This is a sub paragraph, formatted in heading 3 style
+
+## Another paragraph <a name="paragraph2"></a>
+The second paragraph text
