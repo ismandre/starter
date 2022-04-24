@@ -6,26 +6,32 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 
 ### College
 
-- [Seminar 1](https://github.com/ismandre/seminar-1)
 - [Introduction to Data Science: Project](https://github.com/ismandre/uzop-heart-disease)
 - [Project Computing](https://github.com/ismandre/Projekt-R)
-- [Statistical Data Analysis: Project](https://github.com/ismandre/Statisticka-Analiza-Podataka-Projekt)
+- [Seminar 1](https://github.com/ismandre/seminar-1)
 - [Software Engineering: Project](https://github.com/ismandre/Programsko-Inzenjerstvo-Projekt)
+- [Statistical Data Analysis: Project](https://github.com/ismandre/Statisticka-Analiza-Podataka-Projekt)
+- 
+### Machine Learning
+
+- [Deep Learning Specialization Course](https://github.com/ismandre/deep-learning-specialization)
 
 ### Mobile 
 
 #### iOS
 
+- [Service and application development for iOS by FIVE ](https://github.com/ismandre/iOS-Vjestina-QuizApp)
 - [SofaScore iOS Course](https://github.com/ismandre/sofascore-ios-course)
 
 #### Android
 
-- [Service and application development for Android OS by FIVE](https://github.com/ismandre/android-vjestina-tmdb)
 - [Infinum Android Academy](https://github.com/ismandre/isa-shows-app-dnaram)
+- [Service and application development for Android OS by FIVE](https://github.com/ismandre/android-vjestina-tmdb)
 
-### Deep Learning
+### Tasks and Assignments
 
-- [Deep Learning Specialization Course](https://github.com/ismandre/deep-learning-specialization)
+- [ecx.io assignment for student internship](https://github.com/ismandre/ecxio-DemoApp)
+- [Global Logic assignment for Java Academy](https://github.com/ismandre/global-logic-assignment)
 
 ### Web
 
@@ -33,10 +39,7 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 
 - [Agency 04 Summer School](https://github.com/ismandre/ag04-pizzaApp)
 
-### Tasks
 
-- [Global Logic assignment for Java Academy](https://github.com/ismandre/global-logic-assignment)
-- [ecx.io assignment for student internship](https://github.com/ismandre/ecxio-DemoApp)
 
 
 ## Computer Vision Roadmap
