@@ -18,7 +18,6 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 3. [IELTS Preparation](#IELTS-preparation)
 
 
-
 # My Repositories<a name="my-repositories"></a>
 
 ## College<a name="college"></a>
@@ -85,8 +84,6 @@ For more details here is the [link](https://www.kaggle.com/getting-started/15826
 ## Deep Learning Book
 
 For more details here is the [link](https://www.deeplearningbook.org/).
-
-
 
 
 # IELTS preparation<a name="IELTS-preparation"></a>
