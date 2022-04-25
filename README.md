@@ -11,7 +11,7 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 	3. [Mobile](#mobile)
 		1. [Android](#android)
 		2. [iOS](#ios)
-	4. [Tasks and Assignments](#tasks-andassignments)
+	4. [Tasks and Assignments](#tasks-and-assignments)
 	5. [Web](#web)
 		1. [Spring Boot](#spring-boot) 
 2. [Computer  Vision Roadmap](#computer-vision-roadmap)
