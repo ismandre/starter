@@ -16,6 +16,7 @@ This page is primarily intended for me to keep track of and organize my GitHub r
 		1. [Spring Boot](#spring-boot) 
 2. [Computer  Vision Roadmap](#computer-vision-roadmap)
 3. [IELTS Preparation](#IELTS-preparation)
+4. [Orchestration Using Anisble and Virtual Machines](#orchestration)
 
 
 # My Repositories<a name="my-repositories"></a>
@@ -113,3 +114,19 @@ For more details here is the [link](https://www.youtube.com/watch?v=Jzps8q2es7c)
 ### Listening: Map Labeling
 
 ### Listening: Flow-Chart Completion
+
+
+# Orchestration using Ansible and Virtual Machines<a name="orchestration"></a>
+
+## How to Set Up SSH Keys on Ubuntu 18.04
+
+For more details click [here](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1804).
+
+## SSH into VirtualBox VM [Step-by-Step]
+
+For more details click [here](https://www.golinuxcloud.com/ssh-into-virtualbox-vm/).
+
+## How to connect to VirtualBox via SSH
+
+For more details click [here](https://linuxconfig.org/unable-to-ssh-into-virtualbox-guest-machine).
+
